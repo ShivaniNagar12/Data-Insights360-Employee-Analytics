@@ -1,0 +1,33 @@
+Requirements:
+
+1. Total Employee in the company
+
+2. The number of male workers in the company
+
+3. The number of female workers in the company
+
+4. Percentage of male workers
+
+5. Percentage of female workers
+
+6. Due for Promotion & Not due for Promotion 
+   (workers who were last promoted 10 years ago are due for promotion and those below 10 are not due for promotion)
+
+7. Percentage due for promotion & Percentage not due
+
+8. Retrenchment Status (Lay-off & On Service) 
+   (workers' service at company is 18 or above then they are considered Lay-Off, else they're On Service)
+
+9. Determine if an employees home is far from work, close to work or very close 
+   (Commute distance is 20Km or above then they live very far, if commute distance is 10km or above then they are close and if commute distance is below 10km then they are very close)
+
+10. Job Satisfaction Rating of every employee that is if the rating was High, Medium or Low 
+    (High is 4 or above, Medium is 3 and below 3 is Low)
+
+11. Show the rating using stars
+
+12. Employee data is given to show the details per employee
+
+13. Visualize and make Dashboard and Report
+
+14. Give file for the empolyees whose promotion is due and another file with all employees with their retrenchment status
